@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdamota/Social-Network-API.git"
+    "url": "git+https://github.com/DCRich99/themollysocialnetwork.git"
   },
-  "author": "Briana daMota",
+  "author": "",
   "license": "MIT ",
   "bugs": {
-    "url": "https://github.com/bdamota/Social-Network-API/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/bdamota/Social-Network-API#readme",
+  "homepage": "https://github.com/DCRich99/themollysocialnetwork.git",
   "dependencies": {
     "express": "^4.17.1",
     "express.js": "^1.0.0",
